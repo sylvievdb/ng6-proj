@@ -1,6 +1,6 @@
 # Ng6Proj
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1. It is made by following this [tutorial](https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course).
 
 ## Development server
 
